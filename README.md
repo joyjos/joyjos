@@ -4,29 +4,39 @@ Soy un Web Developer de Gijón, Principado de Asturias. Soy analítico, minucios
 
 Me encanta el **Diseño** y la **Programación** y sé que es lo mío, porque el mundo se para, mi mente se para cuando estoy desarrollando.
 
-## Lenguajes y Herramientas
+## Lenguajes y Tecnologías
 
-![JavaScript](https://camo.githubusercontent.com/bc9cf8172e60e814417b1639efa3c549749f23b33deb2fccaaa0d7cadda792b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
-![TypeScript](https://camo.githubusercontent.com/d60afb008bc0bcde7ea8720637928cb02c0f9a6d795dad7382f688a17e7515de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
-![Java](https://camo.githubusercontent.com/d93e16d454115ff5f4da3ca9f284c70d560b41d129e19ce003ec936bfaab3347/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-![HTML5](https://camo.githubusercontent.com/1552d2596cea2d6a701b5df74c7fecfd7e3af38daf3de396c40dee419139a266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![CSS3](https://camo.githubusercontent.com/aa89e8c48bfb66401e4886a979b805fd74e45f50540efe10a90c76c3d96e2488/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://camo.githubusercontent.com/7786728ecaff96d18374c3b3fa2e0288f0a829f48b7667a763692c7fea4d8a5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a736f6e2d3545354335433f7374796c653d666c6174266c6f676f3d6a736f6e266c6f676f436f6c6f723d7768697465)
-![Markdown](https://camo.githubusercontent.com/084c9f1ebe6a6be54fe329d3a1008906f19a14c658ba92f12e155ecf5b8c56cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666c6174266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Angular](https://camo.githubusercontent.com/ff2baf6c78c6a722f95c6b0ef52f409d7f50ffaccb826483b3a669b967ddbc67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d4444303033313f7374796c653d666c61742d737175617265266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465)
-![Node.js](https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-![MongoDB](https://camo.githubusercontent.com/8525e7e6900fc4c5546b0442f8a2f187b802e9f40d431ac7394d2c1509234ad9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
-![Firebase](https://camo.githubusercontent.com/fda4f86f05378025088132d6aa179004787b865e97c28addd9df9c262bcb89ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![VSCode](https://camo.githubusercontent.com/bb81dd67428abb250f8b578e8e2580726a4f5c5335450dcff1296add2bcb52c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666c6174266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465)
-![Sublime Text](https://camo.githubusercontent.com/8701b4bd809549ff06fe4a2c3d71f5bf3d3c7dab7d69842f9244669725a7c7d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7375626c696d655f746578742d2532333537353735372e7376673f267374796c653d666c6174266c6f676f3d7375626c696d652d74657874266c6f676f436f6c6f723d696d706f7274616e74)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-![Git](https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-![Photoshop](https://camo.githubusercontent.com/241937807511d98091e864e46867a31638ad7cce86eff7045c086c07b80b135c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f626525323050686f746f73686f702d3331413846463f7374796c653d666c6174266c6f676f3d41646f626525323050686f746f73686f70266c6f676f436f6c6f723d626c61636b)
-![Gimp](https://camo.githubusercontent.com/e16be899271f1491fe11c94f1d27bf45eda2b484deaa5654e77f511a7b4084b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67696d702d3543353534333f7374796c653d666c6174266c6f676f3d67696d70266c6f676f436f6c6f723d7768697465)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ~~~
 class About extends Me { 
@@ -34,11 +44,11 @@ class About extends Me {
     "ProgramingLanguages" : { "JavaScript", "TypeScript", "PHP", "Java", "SQL" },
     "OtherLanguages" : { "HTML5", "CSS3", "JSON", "Markdown" },
     "Frameworks" : { "Angular", "Node.js", "Laravel", "Spring Boot" },
-    "Libraries" : { "jQuery" },
+    "Libraries" : { "jQuery", "Bootstrap" },
     "Databases" : { "MySQL", "MongoDB", "Firebase" },
     "Editors" : { "VSCode", "Brackets", "Sublime" },
     "Platforms" : { "Windows" },
-    "OtherTools" : { "Git", "Fireworks", "Photoshop", "Gimp" }
+    "OtherTools" : { "Git", "GitHub", "Fireworks", "Photoshop", "Gimp" }
   };
 }
 ~~~
