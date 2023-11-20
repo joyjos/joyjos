@@ -45,7 +45,7 @@ class About extends Me {
     "Frameworks" : { "Angular", "Node.js", "Laravel", "Spring Boot" },
     "Libraries" : { "jQuery", "Bootstrap" },
     "Databases" : { "MySQL", "MongoDB", "Firebase" },
-    "Editors" : { "VSCode", "Brackets", "Sublime" },
+    "Editors" : { "VSCode", "Brackets" },
     "Platforms" : { "Windows" },
     "OtherTools" : { "Git", "GitHub", "Fireworks", "Photoshop", "Gimp" }
   };
