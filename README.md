@@ -30,6 +30,8 @@ Me encanta el **Diseño** y la **Programación** y sé que es lo mío, porque el
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
@@ -43,8 +45,6 @@ Me encanta el **Diseño** y la **Programación** y sé que es lo mío, porque el
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
@@ -57,13 +57,13 @@ class About extends Me {
     "Frameworks" : { "Angular", "Node.js", "Laravel", "Spring Boot" },
     "Libraries" : { "jQuery", "Bootstrap", "React" },
     "Databases" : { "MySQL", "MongoDB", "Firebase" },
-    "Design" : { "Figma" },
+    "Design" : { "Figma", "Fireworks", "Photoshop", "Gimp" },
     "Testing" : { "Jest" },
     "Version Control" : { "Git", "GitHub" }
     "Editors" : { "VSCode" },
     "Education" : { "Udemy" },
     "Platforms" : { "Windows" },
-    "OtherTools" : { "Trello", "Fireworks", "Photoshop", "Gimp" },
+    "OtherTools" : { "Trello" },
     "Social" :  { "Slack", "Zoom" }
   };
 }
