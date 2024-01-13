@@ -13,7 +13,7 @@ Me encanta el **Diseño** y la **Programación** y sé que es lo mío, porque el
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JSON](https://camo.githubusercontent.com/7786728ecaff96d18374c3b3fa2e0288f0a829f48b7667a763692c7fea4d8a5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a736f6e2d3545354335433f7374796c653d666c6174266c6f676f3d6a736f6e266c6f676f436f6c6f723d7768697465)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
