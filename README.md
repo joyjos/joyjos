@@ -71,8 +71,8 @@ class About extends Me {
 
 ## Capacidades
 
-* Creatividad
-* Sensibilidad
-* Pasión
-* Motivación
+* Capacidad y ganas de aprender
+* Capacidad de investigar
+* Trabajo en equipo
+* Learning by doing
 * Atención al Detalle
