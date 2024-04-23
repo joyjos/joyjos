@@ -57,7 +57,7 @@ class About extends Me {
     "OtherLanguages" : { "HTML5", "CSS3", "JSON", "Markdown" },
     "Frameworks" : { "Angular", "Node.js", "Laravel", "Spring Boot" },
     "Libraries" : { "jQuery", "Bootstrap", "React" },
-    "Databases" : { "MySQL", "MongoDB", "Firebase" },
+    "Databases" : { "MySQL", "PosgreSQL", "MongoDB", "Firebase" },
     "Design" : { "Figma", "Fireworks", "Photoshop", "Gimp" },
     "Testing" : { "Jest" },
     "Version Control" : { "Git", "GitHub" }
