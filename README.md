@@ -52,7 +52,9 @@ Me encanta el **Diseño** y la **Programación** y sé que es lo mío, porque el
 
 ~~~
 class About extends Me { 
-  const myTools = {  
+  const myTools = {
+    "AI & Automation": { "n8n", "Antigravity", "Claude Code", "OpenCode" },
+    "Cloud & Infrastructure": { "VPS" },
     "ProgramingLanguages" : { "JavaScript", "TypeScript", "PHP", "Java", "SQL" },
     "OtherLanguages" : { "HTML5", "CSS3", "JSON", "Markdown" },
     "Frameworks" : { "Angular", "Node.js", "Laravel", "Spring Boot" },
