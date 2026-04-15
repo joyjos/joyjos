@@ -19,6 +19,10 @@ Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos 
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
+<sub>
+Tools: Antigravity · Claude Code · OpenCode
+</sub>
+
 ### 💻 Desarrollo Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
@@ -63,5 +67,5 @@ class About extends Me {
 
 ## Contacto
 
-- https://joyjos.eu
+- 🌍 https://joyjos.eu
 - 💼 LinkedIn: https://www.linkedin.com/in/joyjos/
