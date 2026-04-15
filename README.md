@@ -23,11 +23,13 @@ Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
 
 ### 🗄️ Backend & Datos
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ### ☁️ Infraestructura
 ![VPS](https://img.shields.io/badge/VPS-000?style=for-the-badge)
