@@ -1,8 +1,13 @@
 # Hola, soy Jose!!!
 
-Soy un **Web Developer** de Gijón, Principado de Asturias. Soy analítico, minucioso y me encanta aprender.
+Creo soluciones de **automatización** y **agentes de IA** que ahorran tiempo y reducen costes.
 
-Me encanta el **Diseño** y la **Programación** y sé que es lo mío, porque el mundo se para, mi mente se para cuando estoy desarrollando.
+Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos y mejorar su productividad mediante:
+
+ • Creación de agentes de IA personalizados
+ • Automatización de procesos y flujos de trabajo
+ • Integración de herramientas y sistemas (APIs, CRM, etc.)
+ • Desarrollo de landing pages optimizadas para conversión
 
 ## Lenguajes y Tecnologías
 
@@ -51,31 +56,24 @@ Me encanta el **Diseño** y la **Programación** y sé que es lo mío, porque el
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ~~~
-class About extends Me { 
+class About extends Me {
   const myTools = {
-    "AI & Automation": { "n8n", "Antigravity", "Claude Code", "OpenCode" },
-    "Cloud & Infrastructure": { "VPS" },
-    "ProgramingLanguages" : { "JavaScript", "TypeScript", "PHP", "Java", "SQL" },
-    "OtherLanguages" : { "HTML5", "CSS3", "JSON", "Markdown" },
-    "Frameworks" : { "Angular", "Node.js", "Laravel", "Spring Boot" },
-    "Libraries" : { "jQuery", "Bootstrap", "React" },
-    "Databases" : { "MySQL", "PostgreSQL", "MongoDB", "Firebase" },
-    "Design" : { "Figma", "Fireworks", "Photoshop", "Gimp" },
-    "Testing" : { "Jest" },
-    "Version Control" : { "Git", "GitHub" }
-    "Editors" : { "VSCode" },
-    "Education" : { "Udemy" },
-    "Platforms" : { "Windows" },
-    "OtherTools" : { "Trello" },
-    "Social" :  { "Slack", "Zoom" }
+    "AI Engineering": {
+      "ChatGPT", "Claude", "Gemini", "Perplexity",
+      "n8n", "AI Workflows", "Automation"
+    },
+    "Web Development": {
+      "JavaScript", "TypeScript", "React", "Angular",
+      "Node.js", "Spring Boot", "Laravel"
+    },
+    "Infrastructure": {
+      "VPS", "Deployment", "Hosting"
+    }
   };
 }
 ~~~
 
-## Capacidades
+## Contacto
 
-* Capacidad y ganas de aprender
-* Capacidad de investigar
-* Trabajo en equipo
-* Learning by doing
-* Atención al Detalle
+🌍 https://joyjos.eu
+💼 LinkedIn: https://www.linkedin.com/in/joyjos/
