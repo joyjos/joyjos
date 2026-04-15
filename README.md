@@ -55,7 +55,17 @@ class About extends Me {
 }
 ~~~
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
+</p>
+
+---
+
 ## Contacto
 
-🌍 https://joyjos.eu
-💼 LinkedIn: https://www.linkedin.com/in/joyjos/
+- https://joyjos.eu
+- 💼 LinkedIn: https://www.linkedin.com/in/joyjos/
