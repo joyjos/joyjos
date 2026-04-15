@@ -2,12 +2,13 @@
 
 Creo soluciones de **automatización** y **agentes de IA** que ahorran tiempo y reducen costes.
 
+## ⚡ Qué hago
 Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos y mejorar su productividad mediante:
 
- • Creación de agentes de IA personalizados
- • Automatización de procesos y flujos de trabajo
- • Integración de herramientas y sistemas (APIs, CRM, etc.)
- • Desarrollo de landing pages optimizadas para conversión
+ - 🚀 Creación de agentes de IA personalizados
+ - 🤖 Automatización de procesos y flujos de trabajo
+ - 🔗 Integración de herramientas y sistemas (APIs, CRM, etc.)
+ - 💻 Desarrollo de landing pages optimizadas para conversión
 
 ## 🛠️ Tech Stack
 
