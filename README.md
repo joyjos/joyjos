@@ -59,12 +59,6 @@ class About extends Me {
 }
 ~~~
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyjos&show_icons=true&theme=radical" />
-</p>
-
 ## Contacto
 
 - 🌍 https://joyjos.eu
