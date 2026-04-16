@@ -54,7 +54,7 @@ class About extends Me {
     },
     "Web Development": {
       "JavaScript", "TypeScript", "React", "Angular",
-      "Node.js", "Spring Boot", "Laravel"
+      "Node.js", "Spring Boot"
     },
     "Infrastructure": {
       "VPS", "Deployment", "Hosting"
