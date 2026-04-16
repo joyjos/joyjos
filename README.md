@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
+
 # Hola, soy Jose!!!
 
 Creo soluciones de **automatización** y **agentes de IA** que ahorran tiempo y reducen costes.
