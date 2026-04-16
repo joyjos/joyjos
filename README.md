@@ -41,8 +41,8 @@ Tools: Antigravity · Claude Code · OpenCode
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ### ☁️ Infraestructura
-![VPS](https://img.shields.io/badge/VPS-000?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployment-000?style=for-the-badge)<img src="https://img.shields.io/badge/VPS-000000?style=for-the-badge" />
+![VPS](https://img.shields.io/badge/VPS-0A66C2?style=for-the-badge&logo=server&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deployment-22c55e?style=for-the-badge&logo=vercel&logoColor=white)
 </p>
 
 ~~~
