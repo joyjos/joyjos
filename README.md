@@ -16,7 +16,7 @@ Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos 
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI & Automatización
+### ⚡ AI & Automatización
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
