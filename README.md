@@ -51,7 +51,8 @@ class About extends Me {
   const myTools = {
     "AI Engineering": {
       "ChatGPT", "Claude", "Gemini", "Perplexity",
-      "n8n", "AI Workflows", "Automation"
+      "n8n", "AI Workflows", "Automation",
+      "Claude Code", "Codex", "Google Antigravity"
     },
     "Web Development": {
       "JavaScript", "TypeScript", "React", "Angular",
