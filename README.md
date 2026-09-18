@@ -12,7 +12,7 @@ Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos 
  - 🚀 Creación de Agentes de IA personalizados
  - 🤖 Automatización de procesos y flujos de trabajo
  - 🔗 Integración de herramientas y sistemas (APIs, CRM, etc.)
- - 💻 Diseño e Implementación de Soluciones IA
+ - 💻 Desarrollo e Implementación de Soluciones IA
 
 ## 🛠️ Tech Stack
 
