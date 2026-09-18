@@ -9,7 +9,7 @@ Desarrollo **Soluciones IA** y **Automatizaciones** orientadas a ahorrar tiempo,
 ## ⚡ Qué hago
 Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos y mejorar su productividad mediante:
 
- - 🚀 Creación de agentes de IA personalizados
+ - 🚀 Creación de Agentes de IA personalizados
  - 🤖 Automatización de procesos y flujos de trabajo
  - 🔗 Integración de herramientas y sistemas (APIs, CRM, etc.)
  - 💻 Diseño e Implementación de Soluciones IA
