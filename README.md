@@ -4,7 +4,7 @@
 
 # Hola, soy Jose!!!
 
-Creo soluciones de **Soluciones IA** que ahorran tiempo y reducen costes.
+Creo **Soluciones IA** que ahorran tiempo y reducen costes.
 
 ## ⚡ Qué hago
 Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos y mejorar su productividad mediante:
