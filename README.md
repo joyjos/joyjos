@@ -23,7 +23,7 @@ Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos 
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-![Sistemas Agénticos](https://img.shields.io/badge/SISTEMAS_AGÉNTICOS-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+### 🤖 Sistemas Agénticos
 ![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/CODEX-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/GOOGLE_ANTIGRAVITY-4285F4?style=for-the-badge&logo=google&logoColor=white)
