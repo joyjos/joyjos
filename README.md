@@ -16,14 +16,14 @@ Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos 
 
 ## 🛠️ Tech Stack
 
-### ⚡ AI & Automatización
+### 🤖 AI & Automatización
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🤖 Sistemas Agénticos
+### 🧠 Sistemas Agénticos
 ![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/CODEX-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/GOOGLE_ANTIGRAVITY-4285F4?style=for-the-badge&logo=google&logoColor=white)
