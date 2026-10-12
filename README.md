@@ -4,15 +4,15 @@
 
 # Hola, soy Jose!!!
 
-Desarrollo **Soluciones IA** y **Automatizaciones** orientadas a ahorrar tiempo, reducir costes y escalar procesos.
+Desarrollo **Software de Gestión** a medida, diseño **Webs** modernas optimizadas para captar leads y **Automatizo** los procesos repetitivos de tu día a día
 
 ## ⚡ Qué hago
-Ayudo a empresas y profesionales a eliminar tareas manuales, optimizar procesos y mejorar su productividad mediante:
+Ayudo a empresas y profesionales a eliminar tareas manuales y trabajar con más orden y control mediante:
 
- - 🚀 Creación de Agentes de IA personalizados
- - 🤖 Automatización de procesos y flujos de trabajo
- - 🔗 Integración de herramientas y sistemas (APIs, CRM, etc.)
- - 💻 Desarrollo e Implementación de Soluciones IA
+ - ⚙️ Software de gestión a medida, adaptado a cada negocio
+ - 💻 Webs modernas optimizadas para captar leads
+ - 🚀 Automatización de procesos repetitivos y flujos de trabajo
+ - 🤖 Desarrollo impulsado por Sistemas Agénticos (Claude Code, Codex y Google Antigravity)
 
 ## 🛠️ Tech Stack
 
