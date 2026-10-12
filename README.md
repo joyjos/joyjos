@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./JOYJOS.png" width="100%" />
 </p>
 
 # Hola, soy Jose!!!
